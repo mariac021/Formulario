@@ -1,0 +1,28 @@
+.text{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #FF5252;
+}
+
+body{
+    margin: 20px;
+    padding: 15px;
+}
+.descripcion{
+    font-size: small;
+}
+.texto{
+    background-color:#FF5252 ;
+    color: white;
+    border-radius: 10px;
+    
+}
+.btn{
+    width: 300px;
+    height: 50px;
+    margin-left: 490px;
+}
+
+.titlerappi{
+    margin-top: 8%;
+}
